@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBKkivVgXtXkk3cyzh-WJ1FWkRv7lUVwRU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>517870954741</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.flutterflow.fftrivia</string>
+	<key>PROJECT_ID</key>
+	<string>flutter-flow-trial-wfazb3</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flutter-flow-trial-wfazb3.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:517870954741:ios:1547b675ba845d6f49fdbc</string>
+</dict>
+</plist>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "517870954741",
+    "project_id": "flutter-flow-trial-wfazb3",
+    "storage_bucket": "flutter-flow-trial-wfazb3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517870954741:android:51b394a4d8bda5d149fdbc",
+        "android_client_info": {
+          "package_name": "com.flutterflow.fftrivia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4BszzCgwGdypQJ6L1GU1fqS5A8VYghkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
